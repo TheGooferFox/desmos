@@ -1,0 +1,5 @@
+/desmos.crx
+  Content-Type: application/x-chrome-extension
+
+/update.xml
+  Content-Type: text/xml
